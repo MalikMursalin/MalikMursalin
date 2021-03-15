@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MalikMursalin
+- 👀 I’m interested in JS Frameworks at frontend and backend as well...
+- 🌱 I’m currently learning ReactJS and NodeJS...
+- 💞️ I’m looking to collaborate on Frontend repos and learn best practices...
+
+<!---
+MalikMursalin/MalikMursalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
